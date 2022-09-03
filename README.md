@@ -1,3 +1,5 @@
+Click [here](https://interactive-comment-section-project.netlify.app) to view live site
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
